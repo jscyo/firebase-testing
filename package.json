@@ -1,0 +1,22 @@
+{
+  "name": "firebase-testing",
+  "version": "1.0.0",
+  "description": "Basic web app for firebase auth testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jscyo/firebase-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jscyo/firebase-testing/issues"
+  },
+  "homepage": "https://github.com/jscyo/firebase-testing#readme",
+  "dependencies": {
+    "firebase": "^9.10.0"
+  }
+}
